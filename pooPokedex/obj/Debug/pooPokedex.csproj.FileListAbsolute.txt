@@ -1,0 +1,7 @@
+C:\Users\caleb\source\repos\Aula01\pooPokedex\pooPokedex\obj\Debug\pooPokedex.csproj.AssemblyReference.cache
+C:\Users\caleb\source\repos\Aula01\pooPokedex\pooPokedex\obj\Debug\pooPokedex.csproj.CoreCompileInputs.cache
+C:\Users\caleb\source\repos\Aula01\pooPokedex\pooPokedex\bin\Debug\pooPokedex.exe.config
+C:\Users\caleb\source\repos\Aula01\pooPokedex\pooPokedex\bin\Debug\pooPokedex.exe
+C:\Users\caleb\source\repos\Aula01\pooPokedex\pooPokedex\bin\Debug\pooPokedex.pdb
+C:\Users\caleb\source\repos\Aula01\pooPokedex\pooPokedex\obj\Debug\pooPokedex.exe
+C:\Users\caleb\source\repos\Aula01\pooPokedex\pooPokedex\obj\Debug\pooPokedex.pdb
